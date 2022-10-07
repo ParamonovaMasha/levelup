@@ -500,7 +500,11 @@ video{
     display: flex;
     flex-direction: column;
   }
-
+  .promo.reverse .product-photo{
+    display: flex;
+    justify-content: center;
+  }
+  
 }
 
 .promo.reverse .about {
